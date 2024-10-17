@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#red {
+  background-color: red;
+}
+#green {
+  background-color: green;
+}
+#blue {
+  background-color: blue;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 200px;
+}
+
+.Btn {
+  height: 100px;
+  width: 150px;
+  border-radius: 50px;
+  margin: 20px;
+  border: 5px solid black;
+  font-weight: 800;
+}
+
+.RstBtn {
+  height: 50px;
+  width: 250px;
+  border-radius: 20px;
+  border: 5px solid black;
+  font-weight: 800;
+}
